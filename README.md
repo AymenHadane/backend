@@ -30,3 +30,9 @@ gitlab  https://gitlab.com/AymenHadane/backend.git (fetch)
 gitlab  https://gitlab.com/AymenHadane/backend.git (push)
 origin  https://github.com/AymenHadane/backend.git (fetch)
 origin  https://github.com/AymenHadane/backend.git (push)
+
+backend 
+>main.py
+>README.md
+>requirements.txt
+>students.json
